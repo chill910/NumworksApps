@@ -4,4 +4,4 @@ First App:SPREADSHEET;
 This application is a spreadsheet.(no save systeme)
 
 Second App: STUDYAPP;
-This app is for study you insert your Quiz and Memo and he stock this with a memory systeme
+This app is for study you insert your Quiz and Memo and he stock this with a memory systeme, the examin mod clear the storage
