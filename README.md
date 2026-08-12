@@ -4,7 +4,7 @@ First App:SPREADSHEET;
 This application is a spreadsheet.(no save systeme)
 
 Second App: STUDYAPP;
-This app is for study you insert your Quiz and Memo and he stock this with a memory systeme, the examin mod clear the storage
+This app is for study you insert your Quiz and Memo and he stock this with a memory systeme, the examin mod clear the storage-new version with export : https://yaya-cout.github.io/Numworks-connector/#/
 
 Trith app: Reflex;
 It's game based to the refelex
